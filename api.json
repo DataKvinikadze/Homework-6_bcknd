@@ -1,0 +1,12 @@
+[
+  {
+    "username": "data",
+    "posts": [1, 2, 3],
+    "pet": ["dog"]
+  },
+  {
+    "username": "nika",
+    "posts": [1, 2, 3, 4],
+    "pet": ["cat"]
+  }
+]
